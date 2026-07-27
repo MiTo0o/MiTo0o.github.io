@@ -349,7 +349,7 @@
 				</div>
 				<div class="flex gap-6">
 					<a
-						href="Resume.pdf"
+						href="resume.pdf"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="text-slate-400 hover:text-cyan-400 hover:drop-shadow-[0_0_8px_rgba(34,211,238,0.5)] transition-all flex items-center gap-2 text-sm font-medium"
